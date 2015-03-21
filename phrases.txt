@@ -1,0 +1,39 @@
+English	Khmer	Context	Level
+Welcome	សូម​ស្វាគមន៍	greetings	1
+Hello (formal)	ជំរាបសួរ	greetings	1
+How are you?	អ្នកសុខសប្បាយទេ	greetings	1
+I'm fine, thanks. And you?	ខ្ងុំសុខសប្បាយទេ ចុះអ្នក?	greetings	1
+Long time no see	ខានជួបយូ, រហើយ	greetings	1
+What's your name?	អ្នកឈ្មោះអី?	greetings	1
+My name is ...	ខ្ងុំឈ្មោះ ...	greetings	1
+Where are you from?	អ្នកមកពីប្រទេសណា?	greetings	1
+I'm from ...	ខ្ងុំមកពី ...	greetings	1
+Pleased to meet you	ខ្ញុំ​ត្រេក​អរណាស់​ដែលបាន​ស្គាល់​លោក	greetings	1
+Good morning	អរុណសួស្ដី	greetings	1
+Good afternoon	ទិវាសួស្ដី	greetings	1
+good evening	សាយ័ណ្ហសួស្ដី	greetings	1
+good night	រាត្រីសួស្តី	greetings	1
+see you later	លាសិន​ហើយ, ជួបគ្នាថ្ងៃក្រោយ	greetings	1
+Good luck	សូមឲ្យ​បាន​ជោគ​ជ័យ 	social	1
+cheers	ជល់មួយ, លើកដាច់	social	1
+Have a nice day	Mien tingay la-aw	greetings	1
+Bon appetit	អញ្ជើញ​ពិសាឲ្យ​បាន​ឆ្ងាញ់	social	2
+Have a good trip	ទៅអោយបានសុខ	social	2
+I don't understand	មិនយល់ទេ	language	1
+Please speak more slowly	សូម​និយាយ​យឺតៗ	language	1
+Please say that again	សូមនិយាយម្តងទៀត	language	1
+Please write it down	សូមសរសេរពាក្យនោះឱ្យខ្ងុំ	language	1
+Do you speak Khmer?	អ្នក​ចេះ​និយាយ​ភាសា​ខ្មែរ​ទេ?	language	1
+How do you say ... in Khmer?	... ខ្មែរ​ថា​ម៉េច?	language	1
+Excuse me, Sorry	សុំទោស	greetings	1
+Pardon?	អ្នក​និយាយ​ថា​ម៉េច	greetings	1
+How much is this?	នេះថ្លៃប៉ុន្មាន?	shopping	1
+Thank you	ឣរគុណ	greetings	1
+You're welcome	ឣត់ឣីទេ, សូម​អញ្ជើញ	greetings	1
+Where's the toilet?	បង្គន់​នៅ​ឯណា?	social	1
+I love you	បងស្រលាញ់អូន - m>f, អូនស្រលាញ់បង - f>m	social	2
+Get well soon	ឆាប់ជា	social	2
+Leave me alone!	កុំប៉ះពាល់!	social	1
+Help!	ជួយ​ខ្ញុំ​ផង! 	social	1
+Stop!	ឈប់!	social	1
+

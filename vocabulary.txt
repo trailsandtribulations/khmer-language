@@ -1,0 +1,38 @@
+English	Khmer	topic	part of speech	level
+hour	ម៉ោង	food	noun	first
+remember	ចាំ	thought	verb	first
+forget	ភ្លេច	thought	verb	first
+week	អាទិត្យ	time	noun	first
+day	ថ្ងៃ	time	noun	first
+fat	ជាត់	person	adjective	first
+find	រកយេីញ	thought	verb	first
+fish	ត្រី	food	noun	first
+cooked rice	បាយ	food	noun	first
+come	មក	basic	verb	first
+go	ទៅ	basic	verb	first
+think, calculate	គិត	thought	verb	first
+home	ផ្ទះ	basic	noun	first
+play	លេង	basic	verb	first
+same	ដដែល	basic	adverb	first
+talk	និយាយ	talk	verb	first
+friend	មិត	relation	noun	first
+person	នាក់	relation	classifier	first
+father	ឪពុក	relation	noun	first
+mother	ម្តាយ	relation	noun	first
+born	កើត	relation	verb	first
+long time	យូរ	time	noun	first
+year	ឆ្នាំ	time	noun	first
+face, front	មុន	direction	modifier	first
+side	ខាង	direction	modifier	first
+located at	នោ	basic	verb, adverb	first
+child	កូន	relation	noun	first
+very	ណាស់	basic	modifier	first
+clean, beautiful	ស្អាត	basic	adjective	first
+already	ហើយ	basic	temporal	first
+to pay	ចាយ	commerce	verb	first
+wife	ប្រពន្ឋ	relation	noun	first
+not have	គ្មាន	basic	verb	first
+how many	ប៉ុន្មាន	basic	adverb	first
+mosquito	មូស	khmer	noun	second
+many	ច្រើង	basic	modifier	second
+

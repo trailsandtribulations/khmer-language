@@ -1,0 +1,47 @@
+vowel	kbd	C1	C2
+(none)	-	paw	paw X toe
+ា	a	father	maria
+ោ	o	cow	toe
+ៅ	O	cow^	?
+ិ	i	gum	gum?
+ី	I	ai:^	bee
+ុ	u	know:?	gun?
+ូ	U	know	blue
+ួ	Y	kaloua	kaloua
+ើ	;	duh	==
+ៀ	[	mia	mia?
+ឿ	{	ugh~+ah	==?
+េ	e	hay	hay[eh]
+ែ	E	my	my?
+ៃ	S	my+i^	?
+ឹ	w	eugh:	eugh:?
+ឺ	W	eugh	eugh?
+ំ	M	awm	ohm
+ំេ	Me	aam	?
+ំា	Ma	aam	?
+ះ	H	?	?
+េះ	eH	?	?
+ឥ	-	aye?
+ឲ	=	?
+ឪ	]	ouch
+ឧ	}	?
+ឬ	R	reugh~
+ឮ	\	leugh~
+ឭ	|
+។	.
+៕	>
+៊	/
+«	`
+»	~
+៛	$
+ៗ	@
+់	'
+៉	"
+"	#
+៍	^
+័	&
+៏	*
+
+
+
+
